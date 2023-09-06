@@ -1,0 +1,25 @@
+body {
+    background-color:#212227;
+    Color: #E5DDDD;
+    font-family: 'Poppins', sans-serif;
+    padding: 1;
+    margin: 0;
+}
+
+section {
+    display: grid;
+    place-items: center;
+    align-content: center;
+    min-height: 100vh;
+
+}
+/hello/
+.hidden {
+    opacity: 0;
+    transition: all 1.5s;
+}
+
+.show {
+    opacity: 1;
+
+}
